@@ -3,6 +3,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-image: linear-gradient(40deg, gray, rgb(45, 45, 45));
+  user-select: none;
 }
 #container{
     display: flex;
