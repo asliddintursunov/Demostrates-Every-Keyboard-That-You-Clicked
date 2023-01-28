@@ -32,3 +32,11 @@ body {
     position: absolute;
     top: -35px;
 }
+p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: wheat;
+    font-family: cursive;
+}
